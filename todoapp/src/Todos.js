@@ -22,8 +22,5 @@ const Todos = ({ todos, deleteTodo }) => {
   return <div className="todos collection">{todoList}</div>;
 };
 //
-//
-//
-//
-//
+
 export default Todos;
